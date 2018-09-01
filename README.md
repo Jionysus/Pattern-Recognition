@@ -1,1 +1,1 @@
-# Pattern-Recognition
+Course Projects
